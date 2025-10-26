@@ -1,0 +1,34 @@
+json-prompting-llm-examples/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   └── feature_request.md
+│   └── workflows/
+│       └── tests.yml
+├── assemblyai/
+│   ├── multichannel_transcription.py
+│   └── speaker_diarization.py
+├── docs/
+│   ├── best_practices.md
+│   └── research_summary.md
+├── examples/
+│   ├── content_generation.py
+│   ├── data_extraction.py
+│   ├── email_summarization.py
+│   ├── json_vs_natural_comparison.py
+│   └── reasoning_tasks.py
+├── tests/
+│   └── test_prompts.py
+├── .env.example
+├── .gitignore
+├── CHANGELOG.md
+├── CONTRIBUTING.md
+├── GITHUB_DEPLOYMENT.md
+├── LICENSE
+├── PROJECT_SUMMARY.md
+├── README.md
+├── requirements.txt
+└── setup.py
+
+Total Files: 24
+Total Directories: 7
