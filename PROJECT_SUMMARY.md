@@ -268,9 +268,9 @@ MIT License - See LICENSE file for full text
 ## Contact
 
 - GitHub: [@GunnyMarc](https://github.com/GunnyMarc)
-- Issues: [GitHub Issues](https://github.com/GunnyMarc/json-prompting-llm-examples/issues)
+- Issues: [GitHub Issues](https://github.com/GunnyMarc/json-prompting-llm/issues)
 
 ---
 
-Last Updated: 2024
-Version: 1.0.0
+Last Updated: 11 Nov 2025
+Version: 1.0.1

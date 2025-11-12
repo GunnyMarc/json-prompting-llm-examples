@@ -115,6 +115,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for information on how to contribute to t
 - [Repository](https://github.com/GunnyMarc/json-prompting-llm-examples)
 - [Issue Tracker](https://github.com/GunnyMarc/json-prompting-llm-examples/issues)
 - [Documentation](docs/)
+- [Contact](mailto:marec@techgeezer.io)
+- [Discussion forum Techgeezer.io](https://techgeezer.io)
+-
+-
 
 ---
 

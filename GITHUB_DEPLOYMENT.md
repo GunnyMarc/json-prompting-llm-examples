@@ -17,7 +17,7 @@ Before deploying, ensure you have:
 
 1. Go to https://github.com/new
 2. Fill in repository details:
-   - **Repository name**: `json-prompting-llm-examples`
+   - **Repository name**: `json-prompting-llm`
    - **Description**: "Comprehensive examples and research on JSON prompting techniques for LLMs"
    - **Visibility**: Public (recommended for open source)
    - **Initialize**: Do NOT check any initialization options (README, .gitignore, license)
@@ -27,7 +27,7 @@ Before deploying, ensure you have:
 ### Option B: Using GitHub CLI
 
 ```bash
-gh repo create json-prompting-llm-examples \
+gh repo create json-prompting-llm \
   --public \
   --description "Comprehensive examples and research on JSON prompting techniques for LLMs" \
   --source=. \
@@ -40,10 +40,10 @@ If you created the repo via web interface, connect it:
 
 ```bash
 # Add remote origin
-git remote add origin https://github.com/YOUR_USERNAME/json-prompting-llm-examples.git
+git remote add origin https://github.com/GunnyMarc/json-prompting-llm.git
 
 # Or with SSH
-git remote add origin git@github.com:YOUR_USERNAME/json-prompting-llm-examples.git
+git remote add origin git@github.com:GunnyMarc/json-prompting-llm.git
 
 # Verify remote
 git remote -v
@@ -62,7 +62,7 @@ git push -u origin main
 
 ## Step 4: Verify Deployment
 
-1. Visit your repository: `https://github.com/YOUR_USERNAME/json-prompting-llm-examples`
+1. Visit your repository: `https://github.com/GunnyMarc/json-prompting-llm`
 2. Check that all files are present
 3. Verify README.md is displayed on the main page
 4. Confirm GitHub Actions workflow is running (check Actions tab)
@@ -150,7 +150,7 @@ To host documentation:
 3. Branch: `main`, folder: `/docs`
 4. Click Save
 
-Documentation will be available at: `https://YOUR_USERNAME.github.io/json-prompting-llm-examples/`
+Documentation will be available at: `https://GunnyMarc.github.io/json-prompting-llm/`
 
 ## Post-Deployment Tasks
 
@@ -207,7 +207,7 @@ After deployment, your CI/CD pipeline will:
 5. ✓ Run security scans
 6. ✓ Generate coverage reports
 
-View status at: `https://github.com/YOUR_USERNAME/json-prompting-llm-examples/actions`
+View status at: `https://github.com/GunnyMarc/json-prompting-llm/actions`
 
 ## Troubleshooting
 

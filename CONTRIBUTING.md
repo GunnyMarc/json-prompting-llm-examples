@@ -57,8 +57,8 @@ Feature requests are welcome! Please provide:
 1. **Set Up Development Environment**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/json-prompting-llm-examples.git
-cd json-prompting-llm-examples
+git clone https://github.com/GunnyMarc/json-prompting-llm.git
+cd json-prompting-llm
 pip install -r requirements.txt
 pip install -e .[dev]
 ```

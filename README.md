@@ -30,8 +30,8 @@ This repository provides practical examples and research findings on using JSON-
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/GunnyMarc/json-prompting-llm-examples.git
-cd json-prompting-llm-examples
+git clone https://github.com/GunnyMarc/json-prompting-llm.git
+cd json-prompting-llm
 ```
 
 2. Install dependencies:
@@ -71,7 +71,7 @@ python assemblyai/multichannel_transcription.py
 ## Repository Structure
 
 ```
-json-prompting-llm-examples/
+json-prompting-llm/
 ├── examples/           # Core prompting examples
 ├── assemblyai/         # AssemblyAI speech-to-text integration
 ├── docs/              # Research and best practices documentation
@@ -160,8 +160,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## Support
 
-- Create an [issue](https://github.com/GunnyMarc/json-prompting-llm-examples/issues) for bug reports
-- Submit a [feature request](https://github.com/GunnyMarc/json-prompting-llm-examples/issues/new?template=feature_request.md)
+- Create an [issue](https://github.com/GunnyMarc/json-prompting-llm/issues) for bug reports
+- Submit a [feature request](https://github.com/GunnyMarc/json-prompting-llm/issues/new?template=feature_request.md)
 - Check existing issues before creating new ones
 
 ## Citation
@@ -169,12 +169,12 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 If you use this repository in your research, please cite:
 
 ```bibtex
-@misc{json-prompting-llm-examples,
+@misc{json-prompting-llm,
   author = {GunnyMarc},
   title = {JSON Prompting for Large Language Models},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/GunnyMarc/json-prompting-llm-examples}
+  url = {https://github.com/GunnyMarc/json-prompting-llm}
 }
 ```
 
